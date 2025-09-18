@@ -1,0 +1,21 @@
+{
+  "best_model": "LogisticRegression",
+  "metrics": [
+    {
+      "Model": "LogisticRegression",
+      "Accuracy": 1.0,
+      "F1_macro": 1.0
+    },
+    {
+      "Model": "RandomForest",
+      "Accuracy": 1.0,
+      "F1_macro": 1.0
+    }
+  ],
+  "worst_class": "Critically Endangered",
+  "worst_class_f1": 1.0,
+  "figures": {
+    "confusion_matrix": "figures/confusion_matrix_best_model.png",
+    "feature_importance": "figures/top10_feature_importance.png"
+  }
+}
