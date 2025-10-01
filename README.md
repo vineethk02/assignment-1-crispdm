@@ -1,5 +1,7 @@
 # Assignment 1 — Predicting Crocodile Conservation Status (CRISP‑DM)
 
+Medium Link: https://medium.com/@vineeth.kandukuri/predicting-crocodile-conservation-status-with-crisp-dm-7f88cc0c0cbf
+
 This repo contains all artifacts for **Assignment 1**: a complete CRISP‑DM pipeline using `pandas`, `scikit‑learn`, and `matplotlib` to predict **Conservation Status** from `crocodile_dataset.csv`.
 
 ## Structure
